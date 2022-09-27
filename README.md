@@ -1,4 +1,4 @@
-# Web Crawler CS172 Project
+# Web Crawler - CS172 Project
 ## Prerequisites: 
 - Have Java JDK 1.7 or above installed (https://www.oracle.com/java/technologies/downloads/)
 - Have Maven installed (https://maven.apache.org/download.cgi)
