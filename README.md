@@ -12,3 +12,7 @@ For Windows
 #### Deploying frontend:
 1. Ensure that the spring application is running.
 2. Navigate to the index.html file and run open ./index.html
+
+
+![image](https://user-images.githubusercontent.com/57569284/192456439-9e8f6190-7bc9-4b68-b735-ed16fedb130a.png)
+
